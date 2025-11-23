@@ -46,7 +46,7 @@ Máquina propositalmente vulnerável, contendo serviços inseguros:
 ## 🔎 Escaneamento Inicial (Nmap)
 
 ```
-nmap -sV -p 21,22,80,445,139 192.168,56,101
+nmap -sV -p 21,22,80,445,139 <IP>
 ```
 
 ---
