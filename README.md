@@ -25,7 +25,7 @@ Todo o laboratório foi montado no **VirtualBox**, utilizando:
 ## 🖥️ Ambiente Utilizado
 
 ### **1. VirtualBox**
-Ambas as máquinas foram configuradas com rede NAT ou Host-Only para garantir isolamento.
+Ambas as máquinas foram configuradas com rede Host-Only para garantir isolamento.
 
 ### **2. Kali Linux (Atacante)**
 Ferramentas utilizadas:
